@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1394650524 source:c:\users\eliseu\dropbox\unipampa\faculdade\programação\aula março dia 12\eliseu o pica das galaxias\exercício1\exercício 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+

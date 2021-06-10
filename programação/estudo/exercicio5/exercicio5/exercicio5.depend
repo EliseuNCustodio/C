@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392222615 source:c:\users\eliseu\dropbox\unipampa\faculdade\programação\estudo\exercicio5\exercicio5\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

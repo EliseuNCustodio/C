@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1385604655 source:c:\users\eliseu\dropbox\unipampa\faculdade\programação\exercicio de sala\numerosprimos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1385605435 source:c:\users\eliseu\dropbox\unipampa\faculdade\programação\exercicio de sala\numerosprimos\data.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1394461138 source:c:\users\eliseu\dropbox\unipampa\faculdade\programação\aula março dia 10\pasta do eliseu\exercício1\main.c
+	<stdio.h>
+	<stdio.h>
+	<string.h>
+	<sys/time.h>
+
+1394460641 source:c:\users\eliseu\dropbox\unipampa\faculdade\programação\aula março dia 10\pasta do eliseu\exercício1\the actual.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+
