@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1394459146 source:c:\users\eliseu\dropbox\unipampa\faculdade\programação\aula dia 26 de fev\eliseu gostoso\exercício 1\main.c
-	<stdio.h>
-	<stdlib.h>
-	<sys/time.h>
-
